@@ -1,5 +1,5 @@
 # lisp.rs
-Lisp implementation in Rust.
+Lisp implementation in Rust.  This implementation refers to https://github.com/zick/JavaLisp.
 
 ## How to use
 
